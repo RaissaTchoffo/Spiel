@@ -63,7 +63,7 @@ public class Snake {
         //Spieler bewegt sich nach oben
 if(input.equals("w")){
     if(spielerPosition.y>0)
-    spielerPosition.y--;
+     spielerPosition.y--;
 }
 //Spieler bewegt sich nach unten
 else if(input.equals("s")){
